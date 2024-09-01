@@ -85,7 +85,10 @@ This will be about a **9 hour** train trip from Raleigh (RGH) to Philadelphia (P
 #### Train Amenities
 
 - 2 restrooms per car
-- Wi-Fi and electrical outlets
+- Electrical outlets
+- [WiFi](https://www.amtrak.com/blog/how-amtrak-works/amtrak-wifi.html)
+    - Low speed!
+    - Web browsing only; No streaming!
 - Dining car with full [menu](https://www.ncbytrain.org/Documents/carolinian-cafe-menu.pdf)
 - [Checked baggage](https://www.ncbytrain.org/passenger-services/Pages/baggage.aspx)
 - One carry on bag: 25 lbs. and 14 x 11 x 7 inches
@@ -93,7 +96,9 @@ This will be about a **9 hour** train trip from Raleigh (RGH) to Philadelphia (P
 #### What to bring on the Train Trip
 
 - [ ] Phone
+    - [ ] Install: Uber
     - [ ] Download stuff to watch and listen to on long trip
+    - [ ] Optional: Install [Amtrak Mobile App](https://www.amtrak.com/planning-booking/mobile.html)
 - [ ] Headphones
 - [ ] iPad, Chromebook, or Laptop computer
 - [ ] Wall charger and charging cables
