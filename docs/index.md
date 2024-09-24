@@ -6,20 +6,24 @@
 * [Table of Contents](#table-of-contents)
   * [Where are we going?](#where-are-we-going)
   * [Who is going?](#who-is-going)
-  * [When are we going?](#when-are-we-going)
-  * [How are we getting there?](#how-are-we-getting-there)
-    * [Uber to Raleigh Union Train Station](#uber-to-raleigh-union-train-station)
-    * [Leaving: Raleigh Union Train Station](#leaving-raleigh-union-train-station)
-    * [Northbound Carolinian Train #80](#northbound-carolinian-train-80)
-      * [Thursday, September 26](#thursday-september-26)
+  * [What to bring on the Train Trip](#what-to-bring-on-the-train-trip)
+  * [Thursday 26 September](#thursday-26-september)
+    * [9:04am Northbound Silver Star Train #92](#904am-northbound-silver-star-train-92)
       * [Train Amenities](#train-amenities)
-      * [What to bring on the Train Trip](#what-to-bring-on-the-train-trip)
-    * [Arriving: Pennsylvania 30th Street Station](#arriving-pennsylvania-30th-street-station)
-  * [Where are we going to stay?](#where-are-we-going-to-stay)
     * [Philadelphia Marriott Old City](#philadelphia-marriott-old-city)
       * [Hotel Rooms](#hotel-rooms)
-  * [What are we going to do there?](#what-are-we-going-to-do-there)
-  * [How are we getting back?](#how-are-we-getting-back)
+  * [Friday 27 September](#friday-27-september)
+    * [2:30pm Rehearsal at Wedding Venue](#230pm-rehearsal-at-wedding-venue)
+    * [5pm Pre-Wedding Festivities](#5pm-pre-wedding-festivities)
+  * [Saturday 28 September](#saturday-28-september)
+    * [9am Busses Leave from Marriott Old City Hotel](#9am-busses-leave-from-marriott-old-city-hotel)
+    * [10:30am Wedding Ceremony](#1030am-wedding-ceremony)
+    * [4:30pm Baraat](#430pm-baraat)
+    * [5pm Cocktail Hour](#5pm-cocktail-hour)
+    * [6pm Reception](#6pm-reception)
+  * [Sunday 29 September](#sunday-29-september)
+    * [10am Farewell Brunch](#10am-farewell-brunch)
+    * [12:40pm Southbound Silver Start Train #91](#1240pm-southbound-silver-start-train-91)
 <!-- TOC -->
 
 ## Where are we going?
@@ -49,38 +53,66 @@ These folks are planning to travel with us.
 
 ----
 
-## When are we going?
+## What to bring on the Train Trip
 
-Here are the Dates and Times of significant events
+- [ ] Picture ID Card
+- [ ] Your Phone
+  - [ ] Install: Uber App
+  - [ ] Download stuff to watch and listen to on long trip (unreliable WiFi on train)
+  - [ ] Optional: Install [Amtrak Mobile App](https://www.amtrak.com/planning-booking/mobile.html)
+  - [ ] Optional: TripCast for group travel blogging
+    - [ ] Google Play Store: [Tripcast](https://play.google.com/store/apps/details?id=com.getcluster.android.tripcast&hl=en_US)
+    - [ ] Apple Store: [Tripcast](https://apps.apple.com/us/app/tripcast/id901563135)
+- [ ] Headphones to privately enjoy music
+- [ ] Optional: iPad or Chromebook
+- [ ] Wall charger and charging cables
+- [ ] Medications
+- [ ] Toiletries and Sanitation items
+- [ ] Jacket for chilly train
+- [ ] Optional: Blanket
+- [ ] Optional: Backpack
+- [ ] Favorite Snacks
+- [ ] Optional: Book to read
+- [ ] Pajamas / clothes to sleep in (You will have roommates!)
 
----- 
+----
 
-## How are we getting there?
+## Thursday 26 September
 
-### Uber to Raleigh Union Train Station
-
-### Leaving: Raleigh Union Train Station
+### 9:04am Northbound Silver Star Train #92
 
 [Raleigh Union Train Station](https://raleighnc.gov/transportation/places/raleigh-union-station)
 
-Address: **510 W Martin St, Raleigh, NC 27601**
-
-### Northbound Carolinian Train #80
-
-#### Thursday, September 26
+```
+Raleigh Union Train Station
+510 West Martin Street
+Raleigh, NC 27601
+```
 
 This will be about a **9 hour** train trip from Raleigh (RGH) to Philadelphia (PHL)!
 
-[Carolinian Train](https://www.ncbytrain.org/schedules/Pages/carolinian.aspx)
+[Silver Star #92 Train](cbytrain.org/schedules/Pages/silver-star.aspx)
 
-| Time     | City             |   |
-|----------|------------------|---|
-| 6:45 am  | Charlotte, NC    |   |
-| 10:13 am | Raleigh, NC      |   |
-| 2:11 pm  | Richmond, VA     |   |
-| 5:15 pm  | Washington, DC   |   |
-| 5:50 pm  | Baltimore, MD    |   |
-| 7:04 pm  | Philadelphia, PA |   |
+
+| Time     | City             | Station                                                                  |
+|----------|------------------|--------------------------------------------------------------------------|
+| 7:45 am  | Home             | Take Ubers from Home to Train Station                                    |
+| 8:15 am  | Raleigh          | Check in baggage 45 minutes before departure                             |
+| 9:04 am  | Raleigh, NC      | [RGH](https://www.ncbytrain.org/stations/raleigh/Pages/default.aspx)     |
+| 10:23 am | Rocky Mount, NC  | [RMT](https://www.ncbytrain.org/stations/rocky-mount/Pages/default.aspx) |
+| 11:51 am | Petersburg, VA   | [PTB](https://www.amtrak.com/stations/ptb)                               |
+| 12:39 pm | Richmond, VA     | [RVR](https://www.amtrak.com/stations/rvr)                               |
+| 2:27 pm  | Alexandria, VA   | [ALX](https://www.amtrak.com/stations/alx)                               |
+| 3:36 pm  | Washington, DC   | [WAS](https://www.amtrak.com/stations/was)                               |
+| 4:21 pm  | Baltimore, MD    | [BAL](https://www.amtrak.com/stations/bal)                               |
+| 5:11 pm  | Wilmington, DE   | [WIL](https://www.amtrak.com/stations/wil)                               |
+| 5:35 pm  | Philadelphia, PA | [PHL](https://www.amtrak.com/stations/phl)                               |
+
+```
+William H. Gray III 30th Street Station
+2955 Market Street
+Philadelphia, PA 19104
+```
 
 #### Train Amenities
 
@@ -89,39 +121,19 @@ This will be about a **9 hour** train trip from Raleigh (RGH) to Philadelphia (P
 - [WiFi](https://www.amtrak.com/blog/how-amtrak-works/amtrak-wifi.html)
     - Low speed!
     - Web browsing only; No streaming!
-- Dining car with full [menu](https://www.ncbytrain.org/Documents/carolinian-cafe-menu.pdf)
+- Cafe [menu](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/menus/national/National-Cafe-Menu-0723.pdf)
 - [Checked baggage](https://www.ncbytrain.org/passenger-services/Pages/baggage.aspx)
 - One carry on bag: 25 lbs. and 14 x 11 x 7 inches
 
-#### What to bring on the Train Trip
-
-- [ ] Phone
-    - [ ] Install: Uber
-    - [ ] Download stuff to watch and listen to on long trip
-    - [ ] Optional: Install [Amtrak Mobile App](https://www.amtrak.com/planning-booking/mobile.html)
-- [ ] Headphones
-- [ ] iPad, Chromebook, or Laptop computer
-- [ ] Wall charger and charging cables
-- [ ] Jacket for chilly train
-- [ ] Insulated mug with lid to make Ramen Noodles and Tea
-- [ ] Spork -- combination spoon and fork
-- [ ] Backpack
-- [ ] Snacks
-- [ ] Umbrella
-
-### Arriving: Pennsylvania 30th Street Station
-
-[Pennsylvania 30th Street Station](https://www.amtrak.com/stations/phl)
-
-2955 Market St, Philadelphia, PA 19102
-
 ----
-
-## Where are we going to stay?
 
 ### Philadelphia Marriott Old City
 
-1 Dock St, Philadelphia, PA 19106
+```
+Marriott Old City
+1 Dock Street
+Philadelphia, PA 19106
+```
 
 [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/)
 
@@ -131,9 +143,10 @@ This will be about a **9 hour** train trip from Raleigh (RGH) to Philadelphia (P
 
 We have reserved 5 rooms for these 3 nights:
 
-- Thursday, September 26 : Arriving by Train and Uber
+- Thursday, September 26 : Arriving in Philly by Train and Uber
 - Friday, September 27 : Pre-Wedding brunch at 5pm
-- Saturday, September 28 : busses leave at 9am to Church and Reception
+- Saturday, September 28 : busses leave from Marriott at 9am to Church and Reception
+
 
 Checking out Sunday, September 29
 
@@ -141,10 +154,101 @@ Each room will have 2 Queen size beds.  Up to 4 people per room.
 
 ----
 
-## What are we going to do there?
+## Friday 27 September
+
+### 2:30pm Rehearsal at Wedding Venue
+
+
+### 5pm Pre-Wedding Festivities
+
+Attire: Semi-Casual; Yellow-Orange colors
+
+Something you do not mind getting stains on
+
+```
+Sunset Social
+129 South 30th Street
+Philadelphia, PA 19104
+```
 
 ----
 
-## How are we getting back?
+## Saturday 28 September
+
+### 9am Busses Leave from Marriott Old City Hotel
+
+Holds 100 people; first come, first serve!
+
+### 10:30am Wedding Ceremony
+
+Attire: Formal or Indian
+
+```
+Saint Peter's Syriac Orthodox Cathedral
+9946 Haldeman Avenue
+Philadelphia, PA 19115
+```
+
+### 4:30pm Baraat
+
+Attire: Formal or Indian
+
+```
+Cescaphe Ballroom
+923 North 23rd Street
+Philadelphia, PA 19123
+```
+
+### 5pm Cocktail Hour
+
+Cescaphe Ballroom
+
+### 6pm Reception
+
+Cescaphe Ballroom
 
 ----
+
+## Sunday 29 September
+
+### 10am Farewell Brunch
+
+Attire: Casual
+
+```
+Marriott Old City
+1 Dock Street
+Philadelphia, PA 19106
+```
+
+----
+
+### 12:40pm Southbound Silver Start Train #91
+
+[Silver Star #91 Train](https://www.ncbytrain.org/schedules/Pages/silver-star.aspx)
+
+```
+William H. Gray III 30th Street Station
+2955 Market Street
+Philadelphia, PA 19104
+```
+
+| Time     | City             | Station                                                                  |
+|----------|------------------|--------------------------------------------------------------------------|
+| 11:35 am | Philadelphia, PA | Ubers from Marriott to train station                                     |
+| 11:55 am | Philadelphia, PA | Check in baggage at train station                                        |
+| 12:40 pm | Philadelphia, PA | [PHL](https://www.amtrak.com/stations/phl)                               |
+| 1:05 pm  | Wilmington, DE   | [WIL](https://www.amtrak.com/stations/wil)                               |
+| 1:58 pm  | Baltimore, MD    | [BAL](https://www.amtrak.com/stations/bal)                               |
+| 3:04 pm  | Washington, DC   | [WAS](https://www.amtrak.com/stations/was)                               |
+| 3:25 pm  | Alexandria, VA   | [ALX](https://www.amtrak.com/stations/alx)                               |
+| 5:23 pm  | Richmond, VA     | [RVR](https://www.amtrak.com/stations/rvr)                               |
+| 5:59 pm  | Petersburg, VA   | [PTB](https://www.amtrak.com/stations/ptb)                               |
+| 7:29 pm  | Rocky Mount, NC  | [RMT](https://www.ncbytrain.org/stations/rocky-mount/Pages/default.aspx) |
+| 9:10 pm  | Raleigh, NC      | [RGH](https://www.ncbytrain.org/stations/raleigh/Pages/default.aspx)     |
+
+```
+Raleigh Union Train Station
+510 West Martin Street
+Raleigh, NC 27601
+```
