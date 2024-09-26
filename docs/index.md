@@ -12,6 +12,7 @@
       * [Train Amenities](#train-amenities)
     * [Philadelphia Marriott Old City](#philadelphia-marriott-old-city)
       * [Hotel Rooms](#hotel-rooms)
+      * [Room Assignments](#room-assignments)
   * [Friday 27 September](#friday-27-september)
     * [2:30pm Rehearsal at Wedding Venue](#230pm-rehearsal-at-wedding-venue)
     * [5pm Pre-Wedding Festivities](#5pm-pre-wedding-festivities)
@@ -158,6 +159,17 @@ Checking out Sunday, September 29
 
 Each room will have 2 Queen size beds.  Up to 4 people per room.
 
+#### Room Assignments
+
+| Room # | Reservation # | Roommates                            |
+|--------|---------------|--------------------------------------|
+| TBD    | 75388263      | Rodney, Fleur                        |
+| TBD    | 75388262      | Andrew, David                        |
+| TBD    | 75372242      | Timothy, Patrick, James              |
+| TBD    | 75372239      | Marilyn, Monica, Aubriana            |
+| TBD    | 75372237      | Francesca, Victoria, Lily, Stephanie |
+
+
 ----
 
 ## Friday 27 September
@@ -278,6 +290,8 @@ Philadelphia, PA 19148
 
 Almond Croissants
 
+
+
 ```
 La Colombe Coffee Roasters
 130 S 19th St 
@@ -290,6 +304,7 @@ Phone: (215)-563-0860
 ## K’Far Cafe 
 
 An [Israeli cafe](https://www.kfarcafe.com/)
+
 
 **Best Pistachio Sticky Buns**
 
