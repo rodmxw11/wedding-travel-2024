@@ -24,6 +24,11 @@
   * [Sunday 29 September](#sunday-29-september)
     * [10am Farewell Brunch](#10am-farewell-brunch)
     * [12:40pm Southbound Silver Start Train #91](#1240pm-southbound-silver-start-train-91)
+* [Other Interesting Philadelphia Addresses](#other-interesting-philadelphia-addresses)
+  * [Walmart Supercenter](#walmart-supercenter)
+  * [La Colombe Coffee Roasters](#la-colombe-coffee-roasters)
+  * [K’Far Cafe](#kfar-cafe-)
+* [Marriott List of Restaurants](#marriott-list-of-restaurants)
 <!-- TOC -->
 
 ## Where are we going?
@@ -133,6 +138,7 @@ Philadelphia, PA 19104
 Marriott Old City
 1 Dock Street
 Philadelphia, PA 19106
+phone: 215-238-6000
 ```
 
 [Philadelphia Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/)
@@ -219,6 +225,7 @@ Attire: Casual
 Marriott Old City
 1 Dock Street
 Philadelphia, PA 19106
+phone: 215-238-6000
 ```
 
 ----
@@ -252,3 +259,101 @@ Raleigh Union Train Station
 510 West Martin Street
 Raleigh, NC 27601
 ```
+
+# Other Interesting Philadelphia Addresses
+
+## Walmart Supercenter
+
+[Store #2141](https://www.walmart.com/store/2141-philadelphia-pa)
+
+Hours: 6am-11pm daily
+
+```
+Walmart Super Center #2141
+1675 S Christopher Columbus Blvd 
+Philadelphia, PA 19148
+```
+
+## La Colombe Coffee Roasters
+
+Almond Croissants
+
+```
+La Colombe Coffee Roasters
+130 S 19th St 
+Philadelphia, PA 19103-4632
+
+Hours: 7am-7pm daily
+Phone: (215)-563-0860
+```
+
+## K’Far Cafe 
+
+An [Israeli cafe](https://www.kfarcafe.com/)
+
+**Best Pistachio Sticky Buns**
+
+Can [pre-order 6PACK](https://order.toasttab.com/online/cooknsolo-k-far) and pick up next morning.
+
+```
+K’Far Cafe 
+110 S 19th Street
+Philadelphia, PA 19103
+
+Hours: 8am-5pm daily
+```
+
+# Marriott List of Restaurants
+
+This is a handout I received from the Front Desk
+
+---
+
+**Welcome to the City of Brotherly Love!**
+
+We are so happy to have you as our guests here at the Marriott Old City.
+
+**Philly Cheesesteaks**
+- Campo's – 214 Market Street – 0.4 miles – 8-minute walk
+- Oh Brother – 206 Market Street – 0.3 miles – 7-minute walk
+
+---
+
+**Our Favorite Restaurants – majority within a 10-minute walk!**  
+(Please call ahead for reservations)
+- The Olde Bar – Seafood – 2nd and Walnut (next door)
+- Amina – Southern Restaurant – 104 Chestnut St.
+- Positano Coast – Mediterranean/Italian – Dock St. (across the street)
+- Zahav – Israeli – St. James Pl/Dock St. (across the street) – reservations required.
+- Han Dynasty – Chinese – 2nd and Chestnut
+- South Street Diner – Open 24 hours – 2nd and South
+- Buddakan – Asian Fusion – 3rd and Chestnut
+- Cuba Libre – Cuban – 2nd and Market
+- Amada – Spanish Tapas – 217 Chestnut St.
+- Fork – New American – 306 Market St.
+- Tomo – Sushi – 228 Arch St. (12-minute walk)
+- LaScala Fire – Italian – 7th and Chestnut (12-minute walk)
+- The Plough and the Stars – Bar – 2nd and Chestnut
+- Rotten Ralph's – Dive Bar – 2nd and Chestnut (kitchen open late)
+- Khyber Pass Pub – Bar – 2nd and Chestnut
+- 2nd Story Brewing – American/Brewery – 2nd and Chestnut
+- Big Ass Slices – Pizza – 2nd and Market
+- Margherita Pizza – Pizza/Sandwiches – 2nd and Chestnut – great delivery option
+- J's Café (formerly Luna Café) – Breakfast/Brunch – 3rd and Market
+- Eggcellent Café – Breakfast – Front and Chestnut
+- Franklin Fountain – Ice Cream – Front and Market
+- Sue's Produce – produce and deli market across the street, behind Zahav Restaurant
+- The Bourse Food Hall – 111 S Independence Mall E
+- Late night delivery – Domino's Pizza – 215-592-8534
+
+---
+
+**Things to Do & See!**
+- Independence Visitor's Center – 599 Market St. (Corner of 5th & Market)
+- Elfreth's Alley – Nation’s Oldest Residential Street – between 2nd and Front and Arch and Quarry
+- Penn’s Landing – along Delaware River alongside Hilton Penn’s Landing at Front and Walnut
+- Liberty Bell, Independence Hall, and Independence Visitor Center – 5th and Chestnut
+- Betsy Ross House – 239 Arch St.
+- Christ Church Cemetery – The Resting Place of Benjamin Franklin – 100 N Independence Mall (Behind Wyndham Hotel)
+
+---
