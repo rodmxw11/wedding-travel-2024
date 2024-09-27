@@ -163,11 +163,11 @@ Each room will have 2 Queen size beds.  Up to 4 people per room.
 
 | Room # | Reservation # | Roommates                            |
 |--------|---------------|--------------------------------------|
-| TBD    | 75388263      | Rodney, Fleur                        |
-| TBD    | 75388262      | Andrew, David                        |
-| TBD    | 75372242      | Timothy, Patrick, James              |
-| TBD    | 75372239      | Marilyn, Monica, Aubriana            |
-| TBD    | 75372237      | Francesca, Victoria, Lily, Stephanie |
+| 2083   | 75388263      | Rodney, Fleur                        |
+| 2072   | 75388262      | Andrew, David                        |
+| 2088   | 75372242      | Timothy, Patrick, James              |
+| 2030   | 75372239      | Marilyn, Monica, Aubriana            |
+| 2086   | 75372237      | Francesca, Victoria, Lily, Stephanie |
 
 
 ----
